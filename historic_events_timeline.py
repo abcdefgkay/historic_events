@@ -1,3 +1,5 @@
+import pandas as pd 
+
 # List of significant historical events with years and descriptions
 events = [
     {"year": 1492, "description": "Christopher Columbus discovers the Americas."},
