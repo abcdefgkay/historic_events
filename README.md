@@ -7,3 +7,7 @@ This script provides a chronological timeline of significant historical events. 
 
 - Lists important historical events in chronological order.
 - Simple and easy-to-read format.
+
+## How to Play
+
+## Example
