@@ -1,4 +1,5 @@
 import pandas as pd 
+data = []
 
 # List of significant historical events with years and descriptions
 events = [
