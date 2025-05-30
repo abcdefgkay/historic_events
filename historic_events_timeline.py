@@ -11,7 +11,8 @@ events = [
 ]
 
 # Function to display the historical timeline
-
+def display (events):
+    
 def display_timeline(events):
     print("Historic Events Timeline:")
     for event in sorted(events, key=lambda x: x["year"]):
