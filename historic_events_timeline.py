@@ -12,6 +12,7 @@ events = [
 
 # Function to display the historical timeline
 def display (events):
+    truy
     
 def display_timeline(events):
     print("Historic Events Timeline:")
