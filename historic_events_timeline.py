@@ -12,7 +12,7 @@ events = [
 
 # Function to display the historical timeline
 def display (events):
-    if dis truy
+    if events is true
     
 def display_timeline(events):
     print("Historic Events Timeline:")
