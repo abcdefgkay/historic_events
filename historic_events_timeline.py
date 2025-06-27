@@ -7,7 +7,7 @@ events = [
     {"year": 1969, "description": "Apollo 11 lands on the Moon."},
     {"year": 1989, "description": "Fall of the Berlin Wall."},
     {"year": 2001, "description": "September 11 attacks in the United States."},
-    {"year": 2002, "description": "September 12 attacks in the US."}
+    {"year": 2003, "description": "September 10 attacks in the US."}
 ]
 
 # Function to display the historical timeline
